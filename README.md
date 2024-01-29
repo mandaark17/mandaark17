@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alec and what you've been looking for.
+- 👋 Hi, I’m Alec and am excited you're here!
 - 👀 I’m interested in developing improvements to a myriad of functional issues
-- 🌱 I’m currently learning JavaScript and C#; as well as a billion other languages/frameworks/alts
-- 💞️ I’m looking to collaborate with gaming companies to add my unique user perspective to their product.
+- 🌱 I learn and grow with each passing day.
+- 💞️ I’m looking to collaborate to add my unique user perspective and ideals to a application.

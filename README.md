@@ -3,7 +3,9 @@
 #  Alec Gomez
 ## Full Stack Developer
 
- 10th Level Dungeon Master
+To tell all about me would do us injustice. Allow us to collborate and make something truly great, while discovering the perspectives we share. 
+
+I play lots of games: Table Top, Trading Card, and Video. I enjoy getting to know people and seeing what brought them to where they are in life. Traveling is my next life goal, as a true internet weeb, I'd enjoy a trip to Tokyo if I could save for it. 
  
 
 ###

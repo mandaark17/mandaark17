@@ -1,15 +1,7 @@
 ### Hi there 👋, Alec Gomez
 #### Full Stack Developer
-![Full Stack Developer](https://caledon.library.on.ca/wp-content/uploads/whats-happening/programs-for-teens/dungeonsanddragons-1024x274-1500x400.jpg)
 
-![FB_IMG_1554176236676](https://github.com/mandaark17/mandaark17/assets/128550392/f83f0b79-d486-4299-b0c4-3082b9ec6fcd)
-
-dungeon master
-building apps
-creating things
-understanding the bigger picture
-
-
+[[[ABOUT ME]]]]
 
 Skills: JS / HTML / CSS / Java
 

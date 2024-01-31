@@ -3,7 +3,7 @@
 
 [[[ABOUT ME]]]]
 
-<iframe src="https://giphy.com/embed/l3JDLY0bJA5N6TLqM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wolfram-research-coding-programming-l3JDLY0bJA5N6TLqM">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l3JDLY0bJA5N6TLqM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wolfram-research-coding-programming-l3JDLY0bJA5N6TLqM">via GIPHY</a></p>
 
 Skills: JS / HTML / CSS / Java
 

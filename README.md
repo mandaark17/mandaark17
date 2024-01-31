@@ -3,8 +3,7 @@
 
 [[[ABOUT ME]]]]
 
-![giphy](https://github.com/mandaark17/mandaark17/assets/128550392/603c424d-b725-4d35-96e5-ce1acc33dbd9)
-
+<iframe src="https://giphy.com/embed/l3JDLY0bJA5N6TLqM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wolfram-research-coding-programming-l3JDLY0bJA5N6TLqM">via GIPHY</a></p>
 
 Skills: JS / HTML / CSS / Java
 

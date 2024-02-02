@@ -1,11 +1,11 @@
-<div align=right>
+<div align=left>
   
 #  Alec Gomez
 ## Full Stack Developer
 
-To tell all about me would do us injustice. Allow us to collborate and make something truly great, while discovering the perspectives we share. 
+![giphy](https://github.com/mandaark17/mandaark17/assets/128550392/e7d746bb-deff-40cc-bb59-f7fbd454db48)
 
-I play lots of games: Table Top, Trading Card, and Video. I enjoy getting to know people and seeing what brought them to where they are in life. Traveling is my next life goal, as a true internet weeb, I'd enjoy a trip to Tokyo if I could save for it. 
+I was born in Hartford Connecticut, but spent the majority of my childhood in Lakeland, FL. I play lots of games: Table Top, Trading Card, and Video. Most notably I enjoy organizing Dungeons and Dragons sessions as a Dungeon Master for my coworkers and family. I enjoy getting to know people and seeing what brought them to where they are in life. Traveling is my next life goal, as a true internet weeb, I'd enjoy a trip to Tokyo if I could save for it. 
  
 
 ###
